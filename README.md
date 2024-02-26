@@ -4,7 +4,7 @@ This is a simple web application that generates a random number between 1 and 10
 
 ## Demo
 
-You can see a live demo of the random number generator [here](link-to-live-demo).
+You can see a live demo of the random number generator [here](https://grapphic.github.io/Rendom_number_generator/).
 
 ## How to Use
 
